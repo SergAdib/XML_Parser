@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`renders either nothing initially 1`] = `null`;
+
+exports[`renders form filled with data 1`] = `null`;

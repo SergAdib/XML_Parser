@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ParseUI/parseui.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="XML_Parser/XML_Parser.csproj" />
+</Solution>
